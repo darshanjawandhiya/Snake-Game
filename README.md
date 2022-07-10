@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 
 Tech Stack : JavaScript, HTML & CSS
 
