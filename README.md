@@ -2,7 +2,7 @@
 
 Tech Stack : JavaScript, HTML & CSS
 
-I have built Snake Game.
+I have built a Snake Game.
 In this game you have a snake,food object and a score object which displays the score. 
 
 Here, the player uses the arrow keys to move a "snake" around the board. As the snake finds food, it eats the food, and thereby grows larger. 
